@@ -1,0 +1,18 @@
+.dropdown__menu--open{
+    background: yellow;
+    width: 200px;
+    position: absolute;
+    text-align: start;
+}
+
+.dropdown__menu {
+    display: none;
+}
+
+.dropdown__item {
+    cursor: pointer;
+}
+
+.dropdown__link {
+   color: red;
+}
