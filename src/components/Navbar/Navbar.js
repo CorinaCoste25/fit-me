@@ -25,7 +25,6 @@ const Navbar = () => {
 
     const closeMibileMenu = () => setClick(false);
 
-
     return (
         <React.Fragment>
             <nav className="navbar">
